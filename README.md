@@ -3,8 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://www.mangoitsolutions.com/wp-content/uploads/2021/02/full-stack-dev-expert-img.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanakhamassi&label=Profile%20views&color=0e75b6&style=flat" alt="sanakhamassi" /> </p>
-
-- 🌱 I’m currently learning **Angular**
+<!-- - 🌱 I’m currently learning **Angular** -->
 
 - 💬 Ask me about **React,Java,Python**
 

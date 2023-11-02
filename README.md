@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanakhamassi&label=Profile%20views&color=0e75b6&style=flat" alt="sanakhamassi" /> </p>
 <!-- - 🌱 I’m currently learning **Angular** -->
 
-- 💬 Ask me about **React,Java,Python**
+<!-- - 💬 Ask me about **React,Java,Python**  -->
 
 - 📫 How to reach me **sana.khamaassi@gmail.com**
 
